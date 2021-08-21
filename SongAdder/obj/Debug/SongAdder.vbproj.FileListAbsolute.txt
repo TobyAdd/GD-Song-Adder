@@ -1,0 +1,11 @@
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\bin\Debug\SongAdder.exe
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\bin\Debug\SongAdder.pdb
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\bin\Debug\SongAdder.xml
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.vbproj.AssemblyReference.cache
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.Form1.resources
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.Resources.resources
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.vbproj.GenerateResource.cache
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.vbproj.CoreCompileInputs.cache
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.exe
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.xml
+C:\Users\Antonina Hordiy\source\repos\SongAdder\SongAdder\obj\Debug\SongAdder.pdb
